@@ -1,0 +1,6 @@
+{
+    "name" : "Push-Up",
+    "days_off" : ["Sat", "Sun"],
+    "updated_name": "Sit-Up",
+    "updated_days_off": ["Mon", "Wed"]
+}
